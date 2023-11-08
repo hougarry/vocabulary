@@ -1,4 +1,245 @@
 [
+
+{
+    "vocabulary": "Abnegation",
+    "definition": "The act of renouncing or rejecting something.",
+    "pronunciation": "/ˌab-ni-ˈgā-shən/ (AB-ni-GAY-shun)",
+    "example": "The monk's life was characterized by the abnegation of worldly pleasures.",
+    "mnemonic": "Imagine 'being absent' ❌ or 'no gate' 🚫. That's abnegation, renouncing or rejecting something. ❌🚫",
+    "family": ["Renunciation", "rejection", "denial", "refusal", "repudiation"],
+    "prediction": "★★☆☆☆"
+}
+,
+
+{
+    "vocabulary": "Acquiesce",
+    "definition": "Accept something reluctantly but without protest.",
+    "pronunciation": "/ˌæk.wiˈes/ (ak-wee-ES)",
+    "example": "Sara acquiesced to her parents' wishes without further argument.",
+    "mnemonic": "Acquiesce contains quiet, which reminds you of accepting quietly. 🤫✅",
+    "family": ["Consent", "agree", "comply", "assent"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Ancillary",
+    "definition": "Providing necessary support to the primary activities or operation of an organization, institution, industry, or system.",
+    "pronunciation": "/ˈæn.sɪ.ler.i/ (AN-si-ler-ee)",
+    "example": "The company provides ancillary services to its main operations, like marketing and tech support.",
+    "mnemonic": "Ancillary sounds like Aunt Silly - Imagine your Aunt Silly helping out at a big family event as an ancillary aid. 🧡👩‍🦳",
+    "family": ["Auxiliary", "supplementary", "additional", "supportive"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Arcane",
+    "definition": "Understood by few; mysterious or secret.",
+    "pronunciation": "/ɑːrˈkeɪn/ (ar-KANE)",
+    "example": "They were discussing arcane details of the ancient texts.",
+    "mnemonic": "Arcane has the word arc, a shape that often symbolizes mystery as in the arc of a secret circle. 🌌🔍",
+    "family": ["Esoteric", "obscure", "cryptic", "enigmatic"],
+    "prediction": "★★★★☆"
+},
+{
+    "vocabulary": "Arithmetic",
+    "definition": "The branch of mathematics dealing with the properties and manipulation of numbers.",
+    "pronunciation": "/əˈrɪθ.mə.tɪk/ (uh-RITH-muh-tik)",
+    "example": "She solved the complex arithmetic problem in seconds.",
+    "mnemonic": "Arithmetic sounds like A rhythm tick - Numbers have a rhythm, and solving problems is like following the tick of the rhythm. 🎵🔢",
+    "family": ["Calculation", "computation", "math", "numeracy"],
+    "prediction": "★★★★☆"
+},
+{
+    "vocabulary": "Audacity",
+    "definition": "The willingness to take bold risks; rude or disrespectful behavior.",
+    "pronunciation": "/ɔːˈdæs.ɪ.ti/ (aw-DAS-i-tee)",
+    "example": "He had the audacity to question the professor's judgment in front of the class.",
+    "mnemonic": "Audacity contains aud- like audit, where one must be bold to question findings - An auditor shows audacity. 🕵️‍♂️🔥",
+    "family": ["Boldness", "daring", "nerve", "impudence"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Auspicious",
+    "definition": "Conducive to success; favorable.",
+    "pronunciation": "/ɔːˈspɪʃ.əs/ (aw-SPISH-us)",
+    "example": "They thought the sunny weather on the day of their wedding was an auspicious sign.",
+    "mnemonic": "Auspicious sounds like A special wish - A special wish is for auspicious outcomes. 🌟🌞",
+    "family": ["Propitious", "promising", "opportune", "fortunate"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Austere",
+    "definition": "Severe or strict in manner, attitude, or appearance.",
+    "pronunciation": "/ɒˈstɪər/ (os-TEER)",
+    "example": "The headmistress was known for her austere demeanor.",
+    "mnemonic": "Austere rhymes with steer, which requires control and strictness - To steer through tough times, one must be austere. 🐂🔒",
+    "family": ["Severe", "stern", "stringent", "unadorned"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Awry",
+    "definition": "Away from the appropriate, planned, or expected course; amiss.",
+    "pronunciation": "/əˈraɪ/ (uh-RYE)",
+    "example": "The plan went awry when the leader failed to show up.",
+    "mnemonic": "Awry sounds like a rye bread that's not baked right - when baking goes awry, the bread doesn't turn out as expected. 🍞❌👨‍🍳",
+    "family": ["Amiss", "askew", "off course", "wrong"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Banal",
+    "definition": "So lacking in originality as to be obvious and boring.",
+    "pronunciation": "/bəˈnɑːl/ (buh-NAHL)",
+    "example": "The movie was a banal remake of a classic film.",
+    "mnemonic": "Banal sounds like ban all - Imagine a movie so boring that you want to ban all copies of it. 🎥🚫",
+    "family": ["Trite", "hackneyed", "stale", "commonplace"],
+    "prediction": "★★★☆☆"
+},
+
+{
+    "vocabulary": "Blithe",
+    "definition": "Showing a casual and cheerful indifference considered to be callous or improper.",
+    "pronunciation": "/blaɪð/ (BLIYTH)",
+    "example": "She showed a blithe disregard for the rules of etiquette.",
+    "mnemonic": "Blithe sounds like glide, imagine gliding carefree and cheerful in the sky. 🌤️😄",
+    "family": ["Joyous", "carefree", "lighthearted", "nonchalant"],
+    "prediction": "★★☆☆☆"
+},
+{
+    "vocabulary": "Boisterous",
+    "definition": "Noisy, energetic, and cheerful; rowdy.",
+    "pronunciation": "/ˈbɔɪ.stər.əs/ (BOY-stuh-rus)",
+    "example": "The children were boisterous at the birthday party.",
+    "mnemonic": "Boisterous contains bois, which sounds like boys, often associated with noisy play - Boys are boisterous during raucous joys. 🎉👦",
+    "family": ["Rowdy", "loud", "uproarious", "lively"],
+    "prediction": "★★★☆☆"
+},
+{
+    "vocabulary": "Boorish",
+    "definition": "Rough and bad-mannered; coarse.",
+    "pronunciation": "/ˈbʊər.ɪʃ/ (BOOR-ish)",
+    "example": "His boorish behavior at the dinner party embarrassed his host.",
+    "mnemonic": "Boorish sounds like bore, as in A rude bore is often a boorish chore. 🙄👎",
+    "family": ["Crude", "rude", "uncouth", "vulgar"],
+    "prediction": "★☆☆☆☆"
+},
+{
+    "vocabulary": "Burlesque",
+    "definition": "A literary or dramatic work that seeks to mock by means of humorous or satirical imitation.",
+    "pronunciation": "/bɜːˈlesk/ (BUR-lesk)",
+    "example": "The play was a burlesque of the political system.",
+    "mnemonic": "Burlesque sounds like burlap sack, - Imagine a burlap sack comedy act, mocking fashion with flair and tack. 🎭🤣",
+    "family": ["Parody", "caricature", "satire", "spoof"],
+    "prediction": "★★☆☆☆"
+}
+,
+
+  {
+      "vocabulary": "Coagulate",
+      "definition": "To change from a liquid to a solid, usually as a result of cooling or chemical reaction.",
+      "pronunciation": "/koʊˈæɡ.jəˌleɪt/ (KO-ag-yuh-layt)",
+      "example": "The egg whites will coagulate when cooked.",
+      "mnemonic": "Etymology Master: 'Co-' (together) + 'Agglutinare' (to glue). Imagine gluing things together to make them solid. 🧪🔬",
+      "family": ["Solidify", "clot", "congeal"],
+      "prediction": "★☆☆☆☆"
+  },
+  {
+      "vocabulary": "Commensurate",
+      "definition": "Corresponding in size, extent, or degree; proportional.",
+      "pronunciation": "/kəˈmɛn.sər.ɪt/ (kuh-MEN-suh-rit)",
+      "example": "Her skills are commensurate with the job requirements.",
+      "mnemonic": "Mnemonics Design: 'Com-' (with) + 'Mensurate' (sounds like measure). Measure something with a compatible scale. 📏📐",
+      "family": ["Proportional", "equivalent", "correspondent"],
+      "prediction": "★★☆☆☆"
+  },
+  {
+      "vocabulary": "Compendium",
+      "definition": "A collection of concise but detailed information, often in book form.",
+      "pronunciation": "/kəmˈpɛn.di.əm/ (kuhm-PEN-dee-uhm)",
+      "example": "The book is a compendium of short stories.",
+      "mnemonic": "Etymology Master: 'Com-' (together) + 'Pendere' (to weigh). Imagine weighing all the information together. 📚⚖️",
+      "family": ["Anthology", "collection", "digest"],
+      "prediction": "★☆☆☆☆"
+  },
+  {
+      "vocabulary": "Complaisant",
+      "definition": "Eager to please others; obliging.",
+      "pronunciation": "/ˌkɒm.pləˈzeɪnt/ (KOM-pluh-zaynt)",
+      "example": "She has a complaisant attitude, always willing to help.",
+      "mnemonic": "Mnemonics Design: 'Com-' (with) + 'Plaisant' (sounds like please + ant). Imagine an ant eager to please. 🐜🤝",
+      "family": ["Accommodating", "amiable", "obliging"],
+      "prediction": "★☆☆☆☆"
+  },
+  {
+      "vocabulary": "Conciliatory",
+      "definition": "Intended to gain goodwill or lessen hostility.",
+      "pronunciation": "/kənˈsɪl.i.əˌtɔr.i/ (kuhn-SIL-ee-uh-tor-ee)",
+      "example": "His conciliatory approach diffused the tension in the room.",
+      "mnemonic": "Mnemonics Design: 'Con-' (with) + 'Ciliatory' (sounds like 'silly story'). Telling a silly story to lessen hostility. 🤡🕊️",
+      "family": ["Placating", "appeasing", "mollifying"],
+      "prediction": "★★☆☆☆"
+  },
+  {
+      "vocabulary": "Cosmology",
+      "definition": "The study of the origin, structure, and future of the universe.",
+      "pronunciation": "/kɒzˈmɒlədʒi/ (koz-MOL-uh-jee)",
+      "example": "The Big Bang theory is a cornerstone in cosmology.",
+      "mnemonic": "'Cosmo-' (Universe) + '-logy' (Study). Think of a cosmos flower in a lab coat studying the universe. 🌌🔬",
+      "family": ["Universe", "astronomy", "astrophysics"],
+      "prediction": "★★☆☆☆"
+  },
+  {
+      "vocabulary": "Craven",
+      "definition": "Extremely cowardly.",
+      "pronunciation": "/ˈkreɪvən/ (KRAY-vuhn)",
+      "example": "The craven soldier deserted his post.",
+      "mnemonic": "'Craven' sounds like 'cave in.' Imagine someone caving in under pressure. 😨🏞️",
+      "family": ["Cowardly", "timid", "pusillanimous"],
+      "prediction": "★★★☆☆"
+  },
+  {
+      "vocabulary": "Calamitous",
+      "definition": "Involving calamity; catastrophic or disastrous.",
+      "pronunciation": "/kəˈlæm.ɪ.təs/ (kuh-LAM-it-us)",
+      "example": "The earthquake was a calamitous event, causing widespread destruction.",
+      "mnemonic": "'Calamitous' sounds like 'Call a miss' - 'In a disaster, you'd call a miss to report the calamity.' ☎️🌋",
+      "family": ["Disastrous", "cataclysmic", "devastating", "tragic"],
+      "prediction": "★★★★☆"
+  },
+  {
+      "vocabulary": "Censor",
+      "definition": "An official who examines material and suppresses parts deemed offensive or a threat to security.",
+      "pronunciation": "/ˈsɛn.sɔːr/ (SEN-sor)",
+      "example": "The censor removed all sensitive information from the document before publication.",
+      "mnemonic": "'Censor' has 'sensor,' which detects things, just as a censor looks for offensive content. 🕵️‍♂️🔍",
+      "family": ["Examiner", "suppressor", "editor", "scrutineer"],
+      "prediction": "★★★☆☆"
+  },
+  {
+      "vocabulary": "Churlish",
+      "definition": "Rude in a mean-spirited and surly way.",
+      "pronunciation": "/ˈtʃɜː.lɪʃ/ (CHUR-lish)",
+      "example": "It was churlish of him to refuse the invitation so bluntly.",
+      "mnemonic": "'Churlish' resembles 'curled fish' - 'Imagine a surly person as curled fish, frowning and unsociable.' 😡🐟",
+      "family": ["Boorish", "uncivil", "coarse", "sullen"],
+      "prediction": "★☆☆☆☆"
+  },
+  {
+      "vocabulary": "Clamorous",
+      "definition": "Characterized by a loud noise or outcry.",
+      "pronunciation": "/ˈklæm.ər.əs/ (KLAM-uh-rus)",
+      "example": "The crowd became clamorous when the concert was canceled.",
+      "mnemonic": "'Clamorous' has 'clamor' in it - 'A clamor for more creates a clamorous uproar.' 📢👥",
+      "family": ["Noisy", "vociferous", "uproarious", "boisterous"],
+      "prediction": "★★★☆☆"
+  },
+  {
+      "vocabulary": "Clandestine",
+      "definition": "Kept secret or done secretively, especially because illicit.",
+      "pronunciation": "/klænˈdestɪn/ (kland-DEST-in)",
+      "example": "They carried on a clandestine affair, hidden from their families.",
+      "mnemonic": "'Clandestine' sounds like 'clan destined' - 'A secret clan is destined to operate clandestinely.' 🤫🕵️‍♀️",
+      "family": ["Covert", "secret", "hidden", "undercover"],
+      "prediction": "★★★☆☆"
+  },
+
     {
       "vocabulary": "fickle",
       "definition": "Changing frequently, especially as regards one's loyalties or affections",
@@ -26,5 +267,5 @@
       "family": ["reversed", "switched", "turned over", "upturned", "overturned"],
       "prediction": "★☆☆☆☆"
     }
-  ]
-  
+
+]

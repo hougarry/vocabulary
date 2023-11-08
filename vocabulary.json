@@ -1,0 +1,30 @@
+[
+    {
+      "vocabulary": "fickle",
+      "definition": "Changing frequently, especially as regards one's loyalties or affections",
+      "pronunciation": "/ˈfɪk.əl/",
+      "example": "Fans are fickle; they cheer one day and jeer the next.",
+      "mnemonic": "Think 'fickle' like 'pickle,' constantly flipping between sweet and sour flavors 🥒➡️🍬🔁🍋.",
+      "family": ["capricious", "changeable", "volatile", "inconstant", "mercurial"],
+      "prediction": "★★☆☆☆"
+    },
+    {
+      "vocabulary": "flagrant",
+      "definition": "Conspicuously or obviously offensive",
+      "pronunciation": "/ˈflæɡ.rənt/",
+      "example": "The judge condemned the flagrant disregard for the law.",
+      "mnemonic": "Relate 'flagrant' to 'flame-grant,' like granting attention to a flame; it's so blatant, it's like a fire that can't be ignored 🔥🚫.",
+      "family": ["blatant", "glaring", "obvious", "egregious", "gross"],
+      "prediction": "★★☆☆☆"
+    },
+    {
+      "vocabulary": "flipped",
+      "definition": "Sudden reversal of opinion, strategy, or situation",
+      "pronunciation": "/flɪpt/",
+      "example": "The politician flipped his position when he saw the poll results.",
+      "mnemonic": "Like flipping a pancake, 'flipped' represents a sudden turn from one side to another 🍳↔️.",
+      "family": ["reversed", "switched", "turned over", "upturned", "overturned"],
+      "prediction": "★☆☆☆☆"
+    }
+  ]
+  

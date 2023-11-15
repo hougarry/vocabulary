@@ -10,7 +10,7 @@
 <body>
     <div class="search-wrapper">
         <label for="search">Search Vocabulary</label>
-        <input type="search" id="search" placeholder="Search for words, definitions/pronunciation/example/mnemonic/family/prediction" data-search>
+        <input type="search" id="search" placeholder="Search for words, definitions/pronunciation/example/mnemonic/synonyms/prediction" data-search>
     </div>
     <div class="vocab-cards" data-vocab-cards-container></div>
     <template data-vocab-template>
@@ -19,8 +19,9 @@
             <div class="card-body" data-vocab-body></div>
             <div class="card-pronunciation" data-vocab-pronunciation>pronunciation</div>
             <div class="card-example" data-vocab-example></div>
+            <div class="card-etymology" data-vocab-etymology></div>
             <div class="card-mnemonic" data-vocab-mnemonic></div>
-            <div class="card-family" data-vocab-family></div>
+            <div class="card-synonyms" data-vocab-synonyms></div>
             <div class="card-prediction" data-vocab-prediction></div>
         </div>
     </template>

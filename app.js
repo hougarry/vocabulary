@@ -25,16 +25,18 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 const vocabBody = vocabCard.querySelector('[data-vocab-body]');
                 const vocabPronunciation = vocabCard.querySelector('[data-vocab-pronunciation]');
                 const vocabExample = vocabCard.querySelector('[data-vocab-example]');
+                const vocabEtymology = vocabCard.querySelector('[data-vocab-etymology]');
                 const vocabMnemonic = vocabCard.querySelector('[data-vocab-mnemonic]');
-                const vocabFamily = vocabCard.querySelector('[data-vocab-family]');
+                const vocabSynonyms = vocabCard.querySelector('[data-vocab-synonyms]');
                 const vocabPrediction = vocabCard.querySelector('[data-vocab-prediction]');
 
                 vocabHeader.textContent = vocabItem.vocabulary;
                 vocabBody.textContent = vocabItem.definition;
                 vocabPronunciation.textContent = vocabItem.pronunciation;
                 vocabExample.textContent = vocabItem.example;
+                vocabEtymology.textContent = vocabItem.etymology;
                 vocabMnemonic.textContent = vocabItem.mnemonic;
-                vocabFamily.textContent = vocabItem.family.join(', ');
+                vocabSynonyms.textContent = vocabItem.synonyms.join(', ');
                 vocabPrediction.textContent = vocabItem.prediction;
                 vocabCardContainer.append(vocabCard);
 

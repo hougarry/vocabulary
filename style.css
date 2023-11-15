@@ -27,8 +27,9 @@ input {
 .vocab-card > .card-header,
 .vocab-card > .card-pronunciation,
 .vocab-card > .card-example,
+.vocab-card > .card-etymology,
 .vocab-card > .card-mnemonic,
-.vocab-card > .card-family,
+.vocab-card > .card-synonyms,
 .vocab-card > .card-prediction {
     margin-bottom: .5rem;
 }
@@ -58,13 +59,14 @@ input {
     margin: 0.5rem 0;
 }
 
+.vocab-card > .card-etymology,
 .vocab-card > .card-mnemonic {
     font-size: 1.1rem;
     color: #0d0101;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.vocab-card > .card-family {
+.vocab-card > .card-synonyms {
     font-size: 0.9rem;
     padding: 0.25rem 0;
     border-top: 1px dotted #ddd;

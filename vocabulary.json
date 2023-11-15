@@ -266,6 +266,46 @@
       "mnemonic": "Like flipping a pancake, 'flipped' represents a sudden turn from one side to another 🍳↔️.",
       "family": ["reversed", "switched", "turned over", "upturned", "overturned"],
       "prediction": "★☆☆☆☆"
+    },
+    {
+        "vocabulary": "formidable",
+        "definition": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "pronunciation": "/ˈfɔːr.mɪ.də.bəl/",
+        "example": "The team faces a formidable challenge in the upcoming championship.",
+        "etymology": "From Latin formidabilis 'fearsome, dreadful' from formidare 'to fear'.",
+        "mnemonic": "Sounds like 'form a table.' Imagine a huge, powerful table that everyone respects 🏰🔨.",
+        "synonyms": "intimidating, daunting, impressive, fearsome, alarming",
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "galvanize",
+        "definition": "Shock or excite (someone) into taking action.",
+        "pronunciation": "/ˈɡælvənaɪz/",
+        "example": "The coach's speech galvanized the team into playing their best.",
+        "etymology": "Named after Luigi Galvani, a scientist known for his work on the muscular responses of dead frogs to electricity.",
+        "mnemonic": "Sounds like 'gal van.' Picture a woman driving a van energetically, inspiring action 🚐💨.",
+        "synonyms": "stimulate, motivate, energize, electrify, excite",
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "grandstand",
+        "definition": "Seek to attract applause or favorable attention from spectators or the media.",
+        "pronunciation": "/ˈɡrændˌstænd/",
+        "example": "He tends to grandstand during meetings to impress his colleagues.",
+        "etymology": "From 'grand' + 'stand.' Originally referring to the main seating area for spectators at events, now used metaphorically.",
+        "mnemonic": "Imagine someone standing grandly on a stage, showing off to an audience 👑🎤.",
+        "synonyms": "show off, boast, flaunt, posture, attract attention",
+        "prediction": "★☆☆☆☆"
+    },
+    {
+        "vocabulary": "haphazard",
+        "definition": "Lacking any obvious principle of organization; random.",
+        "pronunciation": "/ˈhæpˌhæz.ərd/",
+        "example": "The books were arranged in a haphazard manner on the shelf.",
+        "etymology": "From 'hap' meaning 'chance, luck' and 'hazard,' implying randomness or chance.",
+        "mnemonic": "Sounds like 'hap-hazard.' Imagine randomly facing hazards or dangers by chance 🎲🌪️.",
+        "synonyms": "random, unplanned, disorganized, irregular, hit-or-miss",
+        "prediction": "★★☆☆☆"
     }
 
 ]

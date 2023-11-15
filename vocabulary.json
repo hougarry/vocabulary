@@ -1,12 +1,12 @@
 [
-
+    
 {
     "vocabulary": "Abnegation",
     "definition": "The act of renouncing or rejecting something.",
     "pronunciation": "/ˌab-ni-ˈgā-shən/ (AB-ni-GAY-shun)",
     "example": "The monk's life was characterized by the abnegation of worldly pleasures.",
     "mnemonic": "Imagine 'being absent' ❌ or 'no gate' 🚫. That's abnegation, renouncing or rejecting something. ❌🚫",
-    "family": ["Renunciation", "rejection", "denial", "refusal", "repudiation"],
+    "synonyms": ["Renunciation", "rejection", "denial", "refusal", "repudiation"],
     "prediction": "★★☆☆☆"
 }
 ,
@@ -17,7 +17,7 @@
     "pronunciation": "/ˌæk.wiˈes/ (ak-wee-ES)",
     "example": "Sara acquiesced to her parents' wishes without further argument.",
     "mnemonic": "Acquiesce contains quiet, which reminds you of accepting quietly. 🤫✅",
-    "family": ["Consent", "agree", "comply", "assent"],
+    "synonyms": ["Consent", "agree", "comply", "assent"],
     "prediction": "★★★☆☆"
 },
 {
@@ -26,7 +26,7 @@
     "pronunciation": "/ˈæn.sɪ.ler.i/ (AN-si-ler-ee)",
     "example": "The company provides ancillary services to its main operations, like marketing and tech support.",
     "mnemonic": "Ancillary sounds like Aunt Silly - Imagine your Aunt Silly helping out at a big family event as an ancillary aid. 🧡👩‍🦳",
-    "family": ["Auxiliary", "supplementary", "additional", "supportive"],
+    "synonyms": ["Auxiliary", "supplementary", "additional", "supportive"],
     "prediction": "★★★☆☆"
 },
 {
@@ -35,7 +35,7 @@
     "pronunciation": "/ɑːrˈkeɪn/ (ar-KANE)",
     "example": "They were discussing arcane details of the ancient texts.",
     "mnemonic": "Arcane has the word arc, a shape that often symbolizes mystery as in the arc of a secret circle. 🌌🔍",
-    "family": ["Esoteric", "obscure", "cryptic", "enigmatic"],
+    "synonyms": ["Esoteric", "obscure", "cryptic", "enigmatic"],
     "prediction": "★★★★☆"
 },
 {
@@ -44,7 +44,7 @@
     "pronunciation": "/əˈrɪθ.mə.tɪk/ (uh-RITH-muh-tik)",
     "example": "She solved the complex arithmetic problem in seconds.",
     "mnemonic": "Arithmetic sounds like A rhythm tick - Numbers have a rhythm, and solving problems is like following the tick of the rhythm. 🎵🔢",
-    "family": ["Calculation", "computation", "math", "numeracy"],
+    "synonyms": ["Calculation", "computation", "math", "numeracy"],
     "prediction": "★★★★☆"
 },
 {
@@ -53,7 +53,7 @@
     "pronunciation": "/ɔːˈdæs.ɪ.ti/ (aw-DAS-i-tee)",
     "example": "He had the audacity to question the professor's judgment in front of the class.",
     "mnemonic": "Audacity contains aud- like audit, where one must be bold to question findings - An auditor shows audacity. 🕵️‍♂️🔥",
-    "family": ["Boldness", "daring", "nerve", "impudence"],
+    "synonyms": ["Boldness", "daring", "nerve", "impudence"],
     "prediction": "★★★☆☆"
 },
 {
@@ -62,7 +62,7 @@
     "pronunciation": "/ɔːˈspɪʃ.əs/ (aw-SPISH-us)",
     "example": "They thought the sunny weather on the day of their wedding was an auspicious sign.",
     "mnemonic": "Auspicious sounds like A special wish - A special wish is for auspicious outcomes. 🌟🌞",
-    "family": ["Propitious", "promising", "opportune", "fortunate"],
+    "synonyms": ["Propitious", "promising", "opportune", "fortunate"],
     "prediction": "★★★☆☆"
 },
 {
@@ -71,7 +71,7 @@
     "pronunciation": "/ɒˈstɪər/ (os-TEER)",
     "example": "The headmistress was known for her austere demeanor.",
     "mnemonic": "Austere rhymes with steer, which requires control and strictness - To steer through tough times, one must be austere. 🐂🔒",
-    "family": ["Severe", "stern", "stringent", "unadorned"],
+    "synonyms": ["Severe", "stern", "stringent", "unadorned"],
     "prediction": "★★★☆☆"
 },
 {
@@ -80,7 +80,7 @@
     "pronunciation": "/əˈraɪ/ (uh-RYE)",
     "example": "The plan went awry when the leader failed to show up.",
     "mnemonic": "Awry sounds like a rye bread that's not baked right - when baking goes awry, the bread doesn't turn out as expected. 🍞❌👨‍🍳",
-    "family": ["Amiss", "askew", "off course", "wrong"],
+    "synonyms": ["Amiss", "askew", "off course", "wrong"],
     "prediction": "★★★☆☆"
 },
 {
@@ -89,7 +89,7 @@
     "pronunciation": "/bəˈnɑːl/ (buh-NAHL)",
     "example": "The movie was a banal remake of a classic film.",
     "mnemonic": "Banal sounds like ban all - Imagine a movie so boring that you want to ban all copies of it. 🎥🚫",
-    "family": ["Trite", "hackneyed", "stale", "commonplace"],
+    "synonyms": ["Trite", "hackneyed", "stale", "commonplace"],
     "prediction": "★★★☆☆"
 },
 
@@ -99,7 +99,7 @@
     "pronunciation": "/blaɪð/ (BLIYTH)",
     "example": "She showed a blithe disregard for the rules of etiquette.",
     "mnemonic": "Blithe sounds like glide, imagine gliding carefree and cheerful in the sky. 🌤️😄",
-    "family": ["Joyous", "carefree", "lighthearted", "nonchalant"],
+    "synonyms": ["Joyous", "carefree", "lighthearted", "nonchalant"],
     "prediction": "★★☆☆☆"
 },
 {
@@ -108,7 +108,7 @@
     "pronunciation": "/ˈbɔɪ.stər.əs/ (BOY-stuh-rus)",
     "example": "The children were boisterous at the birthday party.",
     "mnemonic": "Boisterous contains bois, which sounds like boys, often associated with noisy play - Boys are boisterous during raucous joys. 🎉👦",
-    "family": ["Rowdy", "loud", "uproarious", "lively"],
+    "synonyms": ["Rowdy", "loud", "uproarious", "lively"],
     "prediction": "★★★☆☆"
 },
 {
@@ -117,7 +117,7 @@
     "pronunciation": "/ˈbʊər.ɪʃ/ (BOOR-ish)",
     "example": "His boorish behavior at the dinner party embarrassed his host.",
     "mnemonic": "Boorish sounds like bore, as in A rude bore is often a boorish chore. 🙄👎",
-    "family": ["Crude", "rude", "uncouth", "vulgar"],
+    "synonyms": ["Crude", "rude", "uncouth", "vulgar"],
     "prediction": "★☆☆☆☆"
 },
 {
@@ -126,7 +126,7 @@
     "pronunciation": "/bɜːˈlesk/ (BUR-lesk)",
     "example": "The play was a burlesque of the political system.",
     "mnemonic": "Burlesque sounds like burlap sack, - Imagine a burlap sack comedy act, mocking fashion with flair and tack. 🎭🤣",
-    "family": ["Parody", "caricature", "satire", "spoof"],
+    "synonyms": ["Parody", "caricature", "satire", "spoof"],
     "prediction": "★★☆☆☆"
 }
 ,
@@ -137,7 +137,7 @@
       "pronunciation": "/koʊˈæɡ.jəˌleɪt/ (KO-ag-yuh-layt)",
       "example": "The egg whites will coagulate when cooked.",
       "mnemonic": "Etymology Master: 'Co-' (together) + 'Agglutinare' (to glue). Imagine gluing things together to make them solid. 🧪🔬",
-      "family": ["Solidify", "clot", "congeal"],
+      "synonyms": ["Solidify", "clot", "congeal"],
       "prediction": "★☆☆☆☆"
   },
   {
@@ -146,7 +146,7 @@
       "pronunciation": "/kəˈmɛn.sər.ɪt/ (kuh-MEN-suh-rit)",
       "example": "Her skills are commensurate with the job requirements.",
       "mnemonic": "Mnemonics Design: 'Com-' (with) + 'Mensurate' (sounds like measure). Measure something with a compatible scale. 📏📐",
-      "family": ["Proportional", "equivalent", "correspondent"],
+      "synonyms": ["Proportional", "equivalent", "correspondent"],
       "prediction": "★★☆☆☆"
   },
   {
@@ -155,7 +155,7 @@
       "pronunciation": "/kəmˈpɛn.di.əm/ (kuhm-PEN-dee-uhm)",
       "example": "The book is a compendium of short stories.",
       "mnemonic": "Etymology Master: 'Com-' (together) + 'Pendere' (to weigh). Imagine weighing all the information together. 📚⚖️",
-      "family": ["Anthology", "collection", "digest"],
+      "synonyms": ["Anthology", "collection", "digest"],
       "prediction": "★☆☆☆☆"
   },
   {
@@ -164,7 +164,7 @@
       "pronunciation": "/ˌkɒm.pləˈzeɪnt/ (KOM-pluh-zaynt)",
       "example": "She has a complaisant attitude, always willing to help.",
       "mnemonic": "Mnemonics Design: 'Com-' (with) + 'Plaisant' (sounds like please + ant). Imagine an ant eager to please. 🐜🤝",
-      "family": ["Accommodating", "amiable", "obliging"],
+      "synonyms": ["Accommodating", "amiable", "obliging"],
       "prediction": "★☆☆☆☆"
   },
   {
@@ -173,7 +173,7 @@
       "pronunciation": "/kənˈsɪl.i.əˌtɔr.i/ (kuhn-SIL-ee-uh-tor-ee)",
       "example": "His conciliatory approach diffused the tension in the room.",
       "mnemonic": "Mnemonics Design: 'Con-' (with) + 'Ciliatory' (sounds like 'silly story'). Telling a silly story to lessen hostility. 🤡🕊️",
-      "family": ["Placating", "appeasing", "mollifying"],
+      "synonyms": ["Placating", "appeasing", "mollifying"],
       "prediction": "★★☆☆☆"
   },
   {
@@ -182,7 +182,7 @@
       "pronunciation": "/kɒzˈmɒlədʒi/ (koz-MOL-uh-jee)",
       "example": "The Big Bang theory is a cornerstone in cosmology.",
       "mnemonic": "'Cosmo-' (Universe) + '-logy' (Study). Think of a cosmos flower in a lab coat studying the universe. 🌌🔬",
-      "family": ["Universe", "astronomy", "astrophysics"],
+      "synonyms": ["Universe", "astronomy", "astrophysics"],
       "prediction": "★★☆☆☆"
   },
   {
@@ -191,7 +191,7 @@
       "pronunciation": "/ˈkreɪvən/ (KRAY-vuhn)",
       "example": "The craven soldier deserted his post.",
       "mnemonic": "'Craven' sounds like 'cave in.' Imagine someone caving in under pressure. 😨🏞️",
-      "family": ["Cowardly", "timid", "pusillanimous"],
+      "synonyms": ["Cowardly", "timid", "pusillanimous"],
       "prediction": "★★★☆☆"
   },
   {
@@ -200,7 +200,7 @@
       "pronunciation": "/kəˈlæm.ɪ.təs/ (kuh-LAM-it-us)",
       "example": "The earthquake was a calamitous event, causing widespread destruction.",
       "mnemonic": "'Calamitous' sounds like 'Call a miss' - 'In a disaster, you'd call a miss to report the calamity.' ☎️🌋",
-      "family": ["Disastrous", "cataclysmic", "devastating", "tragic"],
+      "synonyms": ["Disastrous", "cataclysmic", "devastating", "tragic"],
       "prediction": "★★★★☆"
   },
   {
@@ -209,7 +209,7 @@
       "pronunciation": "/ˈsɛn.sɔːr/ (SEN-sor)",
       "example": "The censor removed all sensitive information from the document before publication.",
       "mnemonic": "'Censor' has 'sensor,' which detects things, just as a censor looks for offensive content. 🕵️‍♂️🔍",
-      "family": ["Examiner", "suppressor", "editor", "scrutineer"],
+      "synonyms": ["Examiner", "suppressor", "editor", "scrutineer"],
       "prediction": "★★★☆☆"
   },
   {
@@ -218,7 +218,7 @@
       "pronunciation": "/ˈtʃɜː.lɪʃ/ (CHUR-lish)",
       "example": "It was churlish of him to refuse the invitation so bluntly.",
       "mnemonic": "'Churlish' resembles 'curled fish' - 'Imagine a surly person as curled fish, frowning and unsociable.' 😡🐟",
-      "family": ["Boorish", "uncivil", "coarse", "sullen"],
+      "synonyms": ["Boorish", "uncivil", "coarse", "sullen"],
       "prediction": "★☆☆☆☆"
   },
   {
@@ -227,7 +227,7 @@
       "pronunciation": "/ˈklæm.ər.əs/ (KLAM-uh-rus)",
       "example": "The crowd became clamorous when the concert was canceled.",
       "mnemonic": "'Clamorous' has 'clamor' in it - 'A clamor for more creates a clamorous uproar.' 📢👥",
-      "family": ["Noisy", "vociferous", "uproarious", "boisterous"],
+      "synonyms": ["Noisy", "vociferous", "uproarious", "boisterous"],
       "prediction": "★★★☆☆"
   },
   {
@@ -236,7 +236,7 @@
       "pronunciation": "/klænˈdestɪn/ (kland-DEST-in)",
       "example": "They carried on a clandestine affair, hidden from their families.",
       "mnemonic": "'Clandestine' sounds like 'clan destined' - 'A secret clan is destined to operate clandestinely.' 🤫🕵️‍♀️",
-      "family": ["Covert", "secret", "hidden", "undercover"],
+      "synonyms": ["Covert", "secret", "hidden", "undercover"],
       "prediction": "★★★☆☆"
   },
 
@@ -246,7 +246,7 @@
       "pronunciation": "/ˈfɪk.əl/",
       "example": "Fans are fickle; they cheer one day and jeer the next.",
       "mnemonic": "Think 'fickle' like 'pickle,' constantly flipping between sweet and sour flavors 🥒➡️🍬🔁🍋.",
-      "family": ["capricious", "changeable", "volatile", "inconstant", "mercurial"],
+      "synonyms": ["capricious", "changeable", "volatile", "inconstant", "mercurial"],
       "prediction": "★★☆☆☆"
     },
     {
@@ -255,7 +255,7 @@
       "pronunciation": "/ˈflæɡ.rənt/",
       "example": "The judge condemned the flagrant disregard for the law.",
       "mnemonic": "Relate 'flagrant' to 'flame-grant,' like granting attention to a flame; it's so blatant, it's like a fire that can't be ignored 🔥🚫.",
-      "family": ["blatant", "glaring", "obvious", "egregious", "gross"],
+      "synonyms": ["blatant", "glaring", "obvious", "egregious", "gross"],
       "prediction": "★★☆☆☆"
     },
     {
@@ -263,49 +263,50 @@
       "definition": "Sudden reversal of opinion, strategy, or situation",
       "pronunciation": "/flɪpt/",
       "example": "The politician flipped his position when he saw the poll results.",
-      "mnemonic": "Like flipping a pancake, 'flipped' represents a sudden turn from one side to another 🍳↔️.",
-      "family": ["reversed", "switched", "turned over", "upturned", "overturned"],
+      "etymology": "From Latin formidabilis 'fearsome, dreadful' from formidare 'to fear'.",
+      "mnemonic": "Like flipping a pancake, 'flipped' represents a sudden turn from one side to another 🍳↔️.",   
+      "synonyms": ["reversed", "switched", "turned over", "upturned", "overturned"],
       "prediction": "★☆☆☆☆"
     },
     {
         "vocabulary": "formidable",
         "definition": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
-        "pronunciation": "/ˈfɔːr.mɪ.də.bəl/",
-        "example": "The team faces a formidable challenge in the upcoming championship.",
-        "etymology": "From Latin formidabilis 'fearsome, dreadful' from formidare 'to fear'.",
-        "mnemonic": "Sounds like 'form a table.' Imagine a huge, powerful table that everyone respects 🏰🔨.",
-        "synonyms": "intimidating, daunting, impressive, fearsome, alarming",
+        "pronunciation": "/ˈfɔːrmɪdəb(ə)l/",
+        "example": "The team faced a formidable opponent.",
+        "etymology": "From Latin 'formidabilis' meaning 'terrifying, dreadful.'",
+        "mnemonic": "Sounds like 'form a table.' Imagine a giant table so large and strong it's intimidating 🛠️🔍.",
+        "synonyms": ["daunting, intimidating, alarming, frightening, disconcerting"],
         "prediction": "★★★☆☆"
     },
     {
         "vocabulary": "galvanize",
         "definition": "Shock or excite (someone) into taking action.",
-        "pronunciation": "/ˈɡælvənaɪz/",
-        "example": "The coach's speech galvanized the team into playing their best.",
-        "etymology": "Named after Luigi Galvani, a scientist known for his work on the muscular responses of dead frogs to electricity.",
-        "mnemonic": "Sounds like 'gal van.' Picture a woman driving a van energetically, inspiring action 🚐💨.",
-        "synonyms": "stimulate, motivate, energize, electrify, excite",
-        "prediction": "★★☆☆☆"
+        "pronunciation": "/ˈɡalvəˌnaɪz/",
+        "example": "The incident galvanized the community to demand change.",
+        "etymology": "Named after Luigi Galvani, scientist, who observed muscle stimulation by electricity.",
+        "mnemonic": "Sounds like 'gal van.' Imagine a woman in a van energizing everyone she meets ⚡🚐.",
+        "synonyms": ["energize, stimulate, motivate, invigorate, electrify"],
+        "prediction": "★★★★☆"
     },
     {
         "vocabulary": "grandstand",
         "definition": "Seek to attract applause or favorable attention from spectators or the media.",
         "pronunciation": "/ˈɡrændˌstænd/",
-        "example": "He tends to grandstand during meetings to impress his colleagues.",
-        "etymology": "From 'grand' + 'stand.' Originally referring to the main seating area for spectators at events, now used metaphorically.",
-        "mnemonic": "Imagine someone standing grandly on a stage, showing off to an audience 👑🎤.",
-        "synonyms": "show off, boast, flaunt, posture, attract attention",
-        "prediction": "★☆☆☆☆"
+        "example": "Politicians often grandstand during debates.",
+        "etymology": "From 'grand' (large) + 'stand' (tiered seating for spectators), referring to making a showy performance.",
+        "mnemonic": "Think of 'grand' as 'big' and 'stand' as 'performance.' Imagine performing on a big stage for attention 🎭🌟.",
+        "synonyms": ["show off, flaunt, parade, display, boast"],
+        "prediction": "★★☆☆☆"
     },
     {
         "vocabulary": "haphazard",
-        "definition": "Lacking any obvious principle of organization; random.",
-        "pronunciation": "/ˈhæpˌhæz.ərd/",
-        "example": "The books were arranged in a haphazard manner on the shelf.",
-        "etymology": "From 'hap' meaning 'chance, luck' and 'hazard,' implying randomness or chance.",
-        "mnemonic": "Sounds like 'hap-hazard.' Imagine randomly facing hazards or dangers by chance 🎲🌪️.",
-        "synonyms": "random, unplanned, disorganized, irregular, hit-or-miss",
-        "prediction": "★★☆☆☆"
+        "definition": "Lacking any obvious principle of organization.",
+        "pronunciation": "/ˈhæpˌhæzərd/",
+        "example": "The notes were arranged in a haphazard manner.",
+        "etymology": "From 'hap' (chance, luck) + 'hazard' (risk, danger).",
+        "mnemonic": "Sounds like 'happen hazard.' Imagine things happening randomly and riskily 🎲💥.",
+        "synonyms": ["random, unplanned, unsystematic, unmethodical, arbitrary"],
+        "prediction": "★★★☆☆"
     }
 
 ]

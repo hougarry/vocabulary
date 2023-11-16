@@ -307,6 +307,95 @@
         "mnemonic": "Sounds like 'happen hazard.' Imagine things happening randomly and riskily 🎲💥.",
         "synonyms": ["random, unplanned, unsystematic, unmethodical, arbitrary"],
         "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "rapacious",
+        "definition": "Excessively greedy and grasping",
+        "pronunciation": "/rəˈpeɪʃəs/",
+        "example": "The rapacious landlord raised the rent exorbitantly.",
+        "etymology": "From Latin rapax (seizing) + -ious. Rapax comes from rapere (to seize, grab).",
+        "mnemonic": "Rapacious rhymes with 'voracious.' Picture a vulture (voracious) aggressively seizing food (rapacious) 🦅🍖.",
+        "synonyms": ["greedy", "avaricious", "predatory", "voracious", "plunderous"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "rarefied",
+        "definition": "Made less dense or refined",
+        "pronunciation": "/ˈrɛrɪˌfaɪd/",
+        "example": "He had trouble breathing in the rarefied atmosphere of the high mountain.",
+        "etymology": "From rare (sparse) + -fy (to make). Literally means 'to make sparse'.",
+        "mnemonic": "Rarefied sounds like 'rare air.' Imagine breathing thin, 'rare air' at high altitudes 🏔️💨.",
+        "synonyms": ["exalted", "elevated", "sublime", "ethereal", "lofty"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "relish",
+        "definition": "To enjoy or take pleasure in something",
+        "pronunciation": "/ˈrɛlɪʃ/",
+        "example": "She relished her victory in the chess tournament.",
+        "etymology": "From Old French reles (remainder), from relaisser (to leave behind).",
+        "mnemonic": "Relish sounds like 'really cherish.' Picture cherishing a moment you really enjoy 🎉💖.",
+        "synonyms": ["savor", "enjoy", "delight in", "appreciate", "fancy"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "recapitulate",
+        "definition": "To summarize or repeat in concise form",
+        "pronunciation": "/ˌriːkəˈpɪtʃʊleɪt/",
+        "example": "At the end of the lecture, the professor recapitulated the main points.",
+        "etymology": "From Latin re- (again) + capitulum (head, chapter). Literally means 'to go over the main points again'.",
+        "mnemonic": "Recapitulate sounds like 're-cap it late.' Imagine capping a summary late in a discussion 🕰️📝.",
+        "synonyms": ["summarize", "reiterate", "restate", "review", "sum up"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "remunerate",
+        "definition": "To pay or reward for services or work done",
+        "pronunciation": "/rɪˈmjuːnəreɪt/",
+        "example": "She was adequately remunerated for her consultancy work.",
+        "etymology": "From Latin re- (in return) + munerare (to give). Literally means 'to give something in return'.",
+        "mnemonic": "Remunerate sounds like 're-money-rate.' Imagine getting money in return for work 🤝💰.",
+        "synonyms": ["pay", "compensate", "reward", "recompense", "satisfy"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "revelation",
+        "definition": "A surprising and previously unknown fact",
+        "pronunciation": "/ˌrevəˈleɪʃn/",
+        "example": "The biography offered many revelations about the author's life.",
+        "etymology": "From Latin revelatio, from revelare (to unveil, reveal).",
+        "mnemonic": "Revelation sounds like 'reveal a nation.' Picture unveiling a hidden map of a new nation 🗺️👀.",
+        "synonyms": ["disclosure", "discovery", "divulgence", "unveiling", "exposure"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "roil",
+        "definition": "To disturb or irritate; to make muddy by stirring up sediment",
+        "pronunciation": "/rɔɪl/",
+        "example": "The news roiled the public, causing widespread agitation.",
+        "etymology": "From Old French reoiller (to mix, stir up), possibly from Latin regalare (to flood).",
+        "mnemonic": "Roil sounds like 'royal boil.' Imagine a king angrily stirring a muddy pond 🤴🌊.",
+        "synonyms": ["agitate", "disturb", "upset", "discompose", "muddy"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "scathe",
+        "definition": "To harm or injure",
+        "pronunciation": "/skeɪð/",
+        "example": "His critical comments scathed her confidence.",
+        "etymology": "From Old Norse skatha (to hurt, damage), related to 'scathe' (harm).",
+        "mnemonic": "Scathe sounds like 'scathe with hate.' Imagine harming with hateful words 🗣️💢.",
+        "synonyms": ["harm", "injure", "damage", "hurt", "wound"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "scrutiny",
+        "definition": "Close and critical examination",
+        "pronunciation": "/ˈskruːtɪni/",
+        "example": "Her work is under constant scrutiny by her supervisor.",
+        "etymology": "From Latin scrutari (to search, examine), possibly from scruta (trash, trifles).",
+        "mnemonic": "Scrutiny sounds like 'screw tiny.' Picture examining tiny screws closely 🔍🔩.",
+        "synonyms": ["examination", "inspection", "analysis", "review", "investigation"],
+        "prediction": "★★★★☆"
     }
-
 ]

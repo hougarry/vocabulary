@@ -397,5 +397,65 @@
         "mnemonic": "Scrutiny sounds like 'screw tiny.' Picture examining tiny screws closely 🔍🔩.",
         "synonyms": ["examination", "inspection", "analysis", "review", "investigation"],
         "prediction": "★★★★☆"
+    },
+    {
+        "vocabulary": "stale",
+        "definition": "No longer fresh and pleasant to eat; hard, musty, or dry.",
+        "pronunciation": "/steɪl/ (STAYL)",
+        "example": "The bread has gone stale and is no longer good for eating.",
+        "etymology": "stale 'not fresh' 🍞🚫",
+        "mnemonic": "Sounds like 'stall'. Stale food is like something that's been stalled or left out too long, losing its freshness 🕒🍞.",
+        "synonyms": ["old", "musty", "off", "dry"],
+        "prediction": "★★★★☆"
+    },
+    {
+        "vocabulary": "felicitous",
+        "definition": "Well chosen or suited to the circumstances; pleasing and fortunate.",
+        "pronunciation": "/fɪˈlɪsɪtəs/ (fi-LIS-it-uhs)",
+        "example": "His felicitous remarks added charm to the evening.",
+        "etymology": "felix 'happy, lucky' + -itous 'characterized by' 😊👌",
+        "mnemonic": "Sounds like 'felicity' + 'us'. Felicitous is like bringing felicity or happiness to 'us' through well-chosen words or actions 🌟🗨️.",
+        "synonyms": ["apt", "well-chosen", "fitting", "fortunate"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "canned",
+        "definition": "Preserved in a can; also, lacking originality or spontaneity.",
+        "pronunciation": "/kænd/ (KAND)",
+        "example": "He delivered a canned speech that he had used at several events.",
+        "etymology": "can 'a container' + -ed 'characterized by' 🥫📝",
+        "mnemonic": "Think of 'can' + 'ned'. Canned is like ideas or speeches packed in a 'can', used repeatedly without freshness 🥫🔁.",
+        "synonyms": ["preserved", "prepackaged", "unoriginal", "formulaic"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "transient",
+        "definition": "Lasting only for a short time; impermanent.",
+        "pronunciation": "/ˈtrænʃənt/ (TRAN-shuhnt)",
+        "example": "His stay in the city was transient; he moved on after three months.",
+        "etymology": "transire 'to pass through' ⏳🚶‍♂️",
+        "mnemonic": "Sounds like 'transit' + 'ent'. Transient is like being in a state of 'transit' or passing through an 'ent'(environment) briefly 🚆🌍.",
+        "synonyms": ["temporary", "fleeting", "short-lived", "ephemeral"],
+        "prediction": "★★★★☆"
+    },
+    {
+        "vocabulary": "opulent",
+        "definition": "Ostentatiously rich and luxurious or lavish.",
+        "pronunciation": "/ˈɒpjʊlənt/ (OP-yuh-luhnt)",
+        "example": "The opulent mansion was filled with expensive art and furniture.",
+        "etymology": "opulentus 'rich, wealthy' 💰🏰",
+        "mnemonic": "Sounds like 'opera' + 'lent'. Opulent is like lending the grandeur of an opera to a lifestyle, symbolizing lavishness 🎭💎.",
+        "synonyms": ["luxurious", "lavish", "rich", "sumptuous"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "dilatory",
+        "definition": "Slow to act; intended to cause delay.",
+        "pronunciation": "/ˈdɪlətəri/ (DIL-uh-tor-ee)",
+        "example": "His dilatory response caused frustration among the team members.",
+        "etymology": "dilatus 'delayed' + -ory 'relating to' ⏲️🚶‍♂️",
+        "mnemonic": "Sounds like 'delay' + 'story'. Dilatory tactics are like telling a long story to create a delay 📖⏳.",
+        "synonyms": ["slow", "tardy", "unhurried", "procrastinating"],
+        "prediction": "★★☆☆☆"
     }
 ]

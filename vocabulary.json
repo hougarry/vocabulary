@@ -457,5 +457,55 @@
         "mnemonic": "Sounds like 'delay' + 'story'. Dilatory tactics are like telling a long story to create a delay 📖⏳.",
         "synonyms": ["slow", "tardy", "unhurried", "procrastinating"],
         "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "sanctimonious",
+        "definition": "Making a show of being morally superior to other people.",
+        "pronunciation": "/ˌsæŋktɪˈməʊniəs/ (sangk-ti-MOH-nee-uhs)",
+        "example": "His sanctimonious lectures about charity did not match his actions.",
+        "etymology": "sanctus 'holy' + -monious 'full of' 🕊️🚫",
+        "mnemonic": "Think 'saint' + 'monious'. Sanctimonious is acting as if one is a 'saint', full of feigned holiness or moral superiority 😇🔍.",
+        "synonyms": ["self-righteous", "holier-than-thou", "smug", "hypocritical"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "inexorable",
+        "definition": "Impossible to stop or prevent; unyielding; unalterable.",
+        "pronunciation": "/ɪnˈɛksərəb(ə)l/ (in-EK-suh-ruh-buhl)",
+        "example": "The inexorable advance of technology continues to change our lives.",
+        "etymology": "in- 'not' + exorare 'to persuade' 🚫🌊",
+        "mnemonic": "Think 'in' (not) + 'exorable' (alterable). Inexorable is like a force not alterable or persuadable by any means 🏔️🚂.",
+        "synonyms": ["unstoppable", "relentless", "unavoidable", "inevitable"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "dissemble",
+        "definition": "To conceal one's true motives, feelings, or beliefs.",
+        "pronunciation": "/dɪˈsɛmb(ə)l/ (di-SEM-buhl)",
+        "example": "She tried to dissemble her disappointment at not getting the promotion.",
+        "etymology": "dis- 'completely' + simulare 'to simulate, feign' 🎭🚫",
+        "mnemonic": "Think 'dis' (apart) + 'semble' (resemble). Dissemble is like not resembling or showing one's true self 🎭❌.",
+        "synonyms": ["pretend", "feign", "act", "masquerade"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "scintillating",
+        "definition": "Sparkling or shining brightly; brilliantly and excitingly clever or skillful.",
+        "pronunciation": "/ˈsɪntɪleɪtɪŋ/ (SIN-ti-lay-ting)",
+        "example": "The conversation was scintillating, full of witty and insightful comments.",
+        "etymology": "scintilla 'spark' + -ating 'action of' ✨🧠",
+        "mnemonic": "Think 'scintilla' (spark) + 'lating'. Scintillating is like a brain sparkling with brilliant ideas or conversation 🎇💬.",
+        "synonyms": ["sparkling", "shining", "dazzling", "brilliant"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "luminary",
+        "definition": "A person who inspires or influences others, especially one prominent in a particular sphere.",
+        "pronunciation": "/ˈluːmɪnəri/ (LOO-mi-nuh-ree)",
+        "example": "The Nobel laureate was a luminary in the field of physics.",
+        "etymology": "luminare 'light up, illuminate' 🌟🎓",
+        "mnemonic": "Think 'lumin' (light) + 'ary' (one who). A luminary is like one who brings light or enlightenment to a field or area 🌠👩‍🏫.",
+        "synonyms": ["celebrity", "star", "notable", "dignitary"],
+        "prediction": "★★★☆☆"
     }
 ]

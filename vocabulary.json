@@ -507,5 +507,192 @@
         "mnemonic": "Think 'lumin' (light) + 'ary' (one who). A luminary is like one who brings light or enlightenment to a field or area 🌠👩‍🏫.",
         "synonyms": ["celebrity", "star", "notable", "dignitary"],
         "prediction": "★★★☆☆"
-    }
+    },
+    {
+        "vocabulary": "prevaricate",
+        "definition": "To walk crookedly, to straddle, or to speak evasively or misleadingly.",
+        "pronunciation": "/prɪˈvær.ɪ.keɪt/ (pri-VAR-i-kate)",
+        "example": "The politician tended to prevaricate when asked direct questions.",
+        "etymology": "From Latin 'praevaricari' (to walk crookedly, to straddle) 🐍🚶‍♂️",
+        "mnemonic": "Think 'pre-vari-cate'. Prevaricate is like walking in a varied, crooked way, straying from direct truth, evasive or misleading 🚷🔀",
+        "synonyms": ["equivocate", "dissimulate", "deceive", "mislead"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "pristine",
+        "definition": "In its original, unspoiled, or earliest condition; pure and untarnished.",
+        "pronunciation": "/ˈprɪs.tiːn/ (PRIS-teen)",
+        "example": "The beach was pristine, with untouched golden sands and clear waters.",
+        "etymology": "From Latin 'pristinus' (former, original) 🌱✨",
+        "mnemonic": "Connect with 'pri-stine'. Pristine is like the original state of something, unspoiled and in its earliest condition 🌼🏞️",
+        "synonyms": ["untouched", "pure", "unspoiled", "unblemished"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "propitiate",
+        "definition": "To make favorable or to appease, especially a deity or person with authority.",
+        "pronunciation": "/prəˈpɪ.ʃi.eɪt/ (pruh-PISH-ee-ate)",
+        "example": "The tribe offered sacrifices to propitiate the gods and ensure a good harvest.",
+        "etymology": "From Latin 'propitiare' (to make favorable) 🤲🕊️",
+        "mnemonic": "Relate to 'pro-pit-iate'. Propitiate is like filling a pit proactively to win favor, appeasing or pacifying 🙏🕳️",
+        "synonyms": ["appease", "conciliate", "placate", "mollify"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "propriety",
+        "definition": "The quality of being appropriate, conforming to accepted standards, manners, or customs.",
+        "pronunciation": "/prəˈpraɪ.ə.t̬i/ (pruh-PRY-uh-tee)",
+        "example": "Her impeccable propriety made her the ideal hostess for formal events.",
+        "etymology": "From Latin 'proprietas' (appropriateness) 🧐📏",
+        "mnemonic": "Think 'proper-rite-y'. Propriety is like observing proper rites, conforming to good manners or standards 🎩🚪",
+        "synonyms": ["decorum", "correctness", "decency", "politeness"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "recalcitrant",
+        "definition": "Stubbornly resistant to authority, control, or discipline; uncooperative.",
+        "pronunciation": "/rɪˈkæl.sɪ.trənt/ (ri-KAL-si-truhnt)",
+        "example": "The recalcitrant child refused to do his homework despite his parents' pleas.",
+        "etymology": "From Latin 'recalcitrare' (to kick back) 🐴🚫",
+        "mnemonic": "Connect with 're-calcite-trant'. Recalcitrant is like a stone (calcite) kicking back, stubbornly resistant or uncooperative 🧱🦵",
+        "synonyms": ["obstinate", "unyielding", "intractable", "defiant"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "recondite",
+        "definition": "Difficult to understand, hidden from common understanding, or abstruse.",
+        "pronunciation": "/ˈrɛkənˌdaɪt/ (REK-uhn-dyt)",
+        "example": "The professor's lectures were filled with recondite references that left the students bewildered.",
+        "etymology": "From Latin 'recondere' (to hide away) 🤔🔒",
+        "mnemonic": "Relate to 're-con-dite'. Recondite is like hiding knowledge in a con, difficult to understand or abstruse 📚🔏",
+        "synonyms": ["obscure", "esoteric", "cryptic", "incomprehensible"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "refractory",
+        "definition": "Stubbornly resistant to authority, control, or treatment; obstinate.",
+        "pronunciation": "/rɪˈfræk.tər.i/ (ri-FRAK-tuh-ree)",
+        "example": "The refractory patient refused to take any medication prescribed by the doctor.",
+        "etymology": "From Latin 'refractarius' (obstinate, stubborn) 💥🚫",
+        "mnemonic": "Think 're-fract-ory'. Refractory is like fracturing again, stubbornly resistant to authority or control 🧱🔨",
+        "synonyms": ["obstinate", "unyielding", "uncooperative", "intractable"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "relegate",
+        "definition": "To send or consign something or someone to a lower or less important position, often as a form of demotion.",
+        "pronunciation": "/ˈrɛl.ɪ.ɡeɪt/ (REL-i-gate)",
+        "example": "After a series of mistakes, he was relegated to a less significant role in the company.",
+        "etymology": "From Latin 'relegare' (to send away) 📤👇",
+        "mnemonic": "Connect with 're-leg-gate'. Relegate is like sending something back through a leg gate, demoting or assigning to a lower position 🚪🔽",
+        "synonyms": ["demote", "downgrade", "transfer", "assign"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "reticent",
+        "definition": "Inclined to remain silent or reserved, reluctant to speak or express feelings.",
+        "pronunciation": "/ˈrɛt.ə.sənt/ (RET-uh-sent)",
+        "example": "She was reticent about discussing her personal life with her colleagues.",
+        "etymology": "From Latin 'reticere' (to remain silent) 🤐🚫",
+        "mnemonic": "Relate to 're-tic-ent'. Reticent is like having a tic to re-silence, reluctant tospeak or express feelings 🗣️🔇",
+        "synonyms": ["reserved", "silent", "uncommunicative", "guarded"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "sartorial",
+        "definition": "Relating to tailoring, clothing, or style of dress, especially in a skillful or fashionable manner.",
+        "pronunciation": "/sɑːrˈtɔːriəl/ (sar-TOR-ee-ul)",
+        "example": "His sartorial choices always made him stand out in a crowd due to his impeccable taste.",
+        "etymology": "From Latin 'sartor' (tailor) 👔✂️",
+        "mnemonic": "Think 'sartor-ial'. Sartorial is like the style of a sartor or tailor, relating to tailoring or clothes 🧵🧥",
+        "synonyms": ["fashionable", "stylish", "elegant", "dapper"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "solicitous",
+        "definition": "Showing eagerness, concern, or care for someone's comfort or welfare; attentive and considerate.",
+        "pronunciation": "/səˈlɪs.ɪ.təs/ (suh-LIS-i-tuhs)",
+        "example": "The solicitous nurse ensured that the patient's needs were met promptly and with compassion.",
+        "etymology": "From Latin 'solicitare' (to disturb, rouse) 🤲🌟",
+        "mnemonic": "Connect with 'so-licit-us'. Solicitous is like us being so eager to help, showing concern or care for someone's comfort or welfare 🌼🤝",
+        "synonyms": ["attentive", "considerate", "thoughtful", "compassionate"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "soporific",
+        "definition": "Inducing or causing sleep; tending to make one drowsy or sleepy.",
+        "pronunciation": "/ˌsɒp.əˈrɪf.ɪk/ (SOP-uh-RIF-ik)",
+        "example": "The soothing sound of rain had a soporific effect, lulling him into a peaceful slumber.",
+        "etymology": "From Latin 'sopor' (deep sleep) + '-fic' (making) 😴💤",
+        "mnemonic": "Relate to 'so-pour-rific'. Soporific is like pouring something so much it induces sleep, causing or tending to cause sleep 🛌🍵",
+        "synonyms": ["sleep-inducing", "sedative", "drowsy", "hypnotic"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "stipulate",
+        "definition": "To specify or demand as part of an agreement, contract, or arrangement; to make explicit conditions or requirements.",
+        "pronunciation": "/ˈstɪp.jʊ.leɪt/ (STIP-yuh-late)",
+        "example": "The contract stipulates that the payment must be made within 30 days of the invoice date.",
+        "etymology": "From Latin 'stipulatus' (arranged) 📝✅",
+        "mnemonic": "Think 'stipu-late'. Stipulate is like stating stipulations late in the game, specifying conditions or requirements in an agreement 🤝⏳",
+        "synonyms": ["specify", "demand", "require", "set forth"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "stolid",
+        "definition": "Unemotional, impassive, or not easily stirred by emotion; having a lack of responsiveness or enthusiasm.",
+        "pronunciation": "/ˈstɑː.lɪd/ (STAR-lid)",
+        "example": "He remained stolid in the face of both good news and bad news, never showing much emotion.",
+        "etymology": "From Latin 'stolidus' (unemotional, impassive) 🗿🚫",
+        "mnemonic": "Connect with 'sto-lid'. Stolid is like having a lid on your emotions, unemotional or impassive 🎭🔒",
+        "synonyms": ["unemotional", "stoic", "apathetic", "indifferent"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "striated",
+        "definition": "Marked with stripes, grooves, or ridges; having a striped or furrowed appearance.",
+        "pronunciation": "/ˈstraɪ.eɪ.tɪd/ (STRY-ay-tid)",
+        "example": "The rock had a striated pattern, with alternating dark and light stripes running through it.",
+        "etymology": "From Latin 'striare' (to furrow, groove) 🌊🔲",
+        "mnemonic": "Relate to 'stripe-ated'. Striated is like having multiple stripes, marked with stripes, grooves, or ridges 🌈📈",
+        "synonyms": ["striped", "grooved", "ridged", "banded"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "subsume",
+        "definition": "To include or incorporate something under a broader category or concept; to summarize or encompass within.",
+        "pronunciation": "/səbˈsuːm/ (sub-SOOM)",
+        "example": "The theory of evolution seeks to subsume various biological phenomena under the concept of natural selection.",
+        "etymology": "From Latin 'subsumere' (to take under, include) 🔍📥",
+        "mnemonic": "Think 'sub-sume'. Subsume is like summarizing something under a broader category, to include or incorporate 🗃️🌐",
+        "synonyms": ["include", "incorporate", "comprehend", "encompass"],
+        "prediction": "★★★☆☆"
+        },
+        
+        {
+        "vocabulary": "tangential",
+        "definition": "Only slightly related or divergent from the main topic or subject; touching at a tangent.",
+        "pronunciation": "/tænˈdʒen.ʃəl/ (tan-JEN-shuhl)",
+        "example": "His tangential remarks during the meeting often led the discussion off on unrelated topics.",
+        "etymology": "From Latin 'tangere' (to touch) + '-al' (pertaining to) 🔀📐",
+        "mnemonic": "Connect with 'tan-gen-tial'. Tangential is like touching only at a tangent, only slightly related or divergent 🧭➡️",
+        "synonyms": ["peripheral", "incidental", "side-topic", "digressive"],
+        "prediction": "★★★☆☆"
+        }
+        
 ]
